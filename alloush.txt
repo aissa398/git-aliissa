@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 
 bonjour
 ca va 
 hi ana mniè zento
-=======
-qsdqd
-qsdqsd
-qsdqzda
->>>>>>> main
